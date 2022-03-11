@@ -9,13 +9,13 @@ public class StudentReader extends Reader{
     public List<Aplicant> readAplicanti(String file) throws FileNotFoundException {
         Scanner input = new Scanner(new File(file));
         input.useDelimiter(",|\n");
-        List<Aplicant> aplicanti = new ArrayList<Aplicant>();
+        List<Aplicant> aplicanti = new ArrayList<>();
 
         while (input.hasNext()) {
             Student s=new Student();
             readAplicant(input,s);
             int an_studii = input.nextInt();
-            String facultate = (input.next()).toString();
+            String facultate = input.next();
             s.setAn_studii(an_studii);
             s.setFacultate(facultate);
             aplicanti.add(s);

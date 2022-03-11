@@ -7,20 +7,20 @@ import java.util.Scanner;
 public class ElevReader extends Reader{
     @Override
     public List<Aplicant> readAplicanti(String file) throws FileNotFoundException {
-        Scanner input2 = new Scanner(new File(file));
-        input2.useDelimiter(",|\n");
-        List<Aplicant> elevi = new ArrayList<Aplicant>();
+        Scanner scanner = new Scanner(new File(file));
+        scanner.useDelimiter(",|\n");
+        List<Aplicant> elevi = new ArrayList<>();
 
-        while (input2.hasNext()) {
+        while (scanner.hasNext()) {
             Elev e=new Elev();
-            readAplicant(input2,e);
-            int clasa = input2.nextInt();
-            String tutore = input2.next();
+            readAplicant(scanner,e);
+            int clasa = scanner.nextInt();
+            String tutore = scanner.next();
             e.setClasa(clasa);
             e.setTutore(tutore);
             elevi.add(e);
         }
-        input2.close();
+        scanner.close();
         return elevi;
     }
 }

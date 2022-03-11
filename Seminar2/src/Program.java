@@ -8,8 +8,11 @@ public class Program {
         Reader reader = new AngajatReader();
         try {
             listaAngajati = reader.readAplicanti("angajati.txt");
-            for (Aplicant aplicant : listaAngajati)
+            for (Aplicant aplicant : listaAngajati) {
                 System.out.println(aplicant.toString());
+                aplicant.afisereAcceptanta();
+                aplicant.afisareSumaFinantare(400);
+            }
         } catch (FileNotFoundException e) {
             e.printStackTrace();
         }

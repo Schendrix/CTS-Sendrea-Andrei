@@ -16,6 +16,8 @@ public abstract class Reader {
             vect[i] = scanner.next();
         aplicant.setNume(nume);
         aplicant.setPrenume(prenume);
+        aplicant.setVarsta(varsta);
+        aplicant.setPunctaj(punctaj);
         aplicant.setDenumiriProiecte(nr,vect);
 
     }
