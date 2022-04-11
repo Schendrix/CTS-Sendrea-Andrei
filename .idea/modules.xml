@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS-Sendrea-Andrei.iml" filepath="$PROJECT_DIR$/CTS-Sendrea-Andrei.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar5-Fatada/Seminar5-Fatada.iml" filepath="$PROJECT_DIR$/Seminar5-Fatada/Seminar5-Fatada.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6_Composite/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6_Composite/Seminar6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar6_Decorator/Seminar6_Decorator.iml" filepath="$PROJECT_DIR$/Seminar6_Decorator/Seminar6_Decorator.iml" />
     </modules>
   </component>
 </project>

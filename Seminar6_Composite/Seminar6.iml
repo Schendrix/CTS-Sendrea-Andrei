@@ -2,12 +2,11 @@
 <module type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
-    <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Seminar1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Seminar3" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../Seminar6_Composite">
+      <sourceFolder url="file://$MODULE_DIR$/../Seminar6_Composite/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="Seminar4" />
+    <orderEntry type="library" name="KotlinJavaRuntime (3)" level="project" />
   </component>
 </module>
