@@ -8,6 +8,9 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar5-Fatada/Seminar5-Fatada.iml" filepath="$PROJECT_DIR$/Seminar5-Fatada/Seminar5-Fatada.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_Composite/Seminar6.iml" filepath="$PROJECT_DIR$/Seminar6_Composite/Seminar6.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar6_Decorator/Seminar6_Decorator.iml" filepath="$PROJECT_DIR$/Seminar6_Decorator/Seminar6_Decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Observer.iml" filepath="$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Observer_1/Seminar8_Observer_1.iml" filepath="$PROJECT_DIR$/Seminar8_Observer_1/Seminar8_Observer_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Strategy.iml" filepath="$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Strategy.iml" />
     </modules>
   </component>
 </project>
