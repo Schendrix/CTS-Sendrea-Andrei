@@ -3,6 +3,10 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CTS-Sendrea-Andrei.iml" filepath="$PROJECT_DIR$/CTS-Sendrea-Andrei.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_Command/Seminar10_Command.iml" filepath="$PROJECT_DIR$/Seminar10_Command/Seminar10_Command.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Chain/Seminar10_Memento.iml" filepath="$PROJECT_DIR$/Seminar9_Chain/Seminar10_Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_State01/Seminar10_State01.iml" filepath="$PROJECT_DIR$/Seminar10_State01/Seminar10_State01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar10_Testing/Seminar10_Testing.iml" filepath="$PROJECT_DIR$/Seminar10_Testing/Seminar10_Testing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar2/Seminar2.iml" filepath="$PROJECT_DIR$/Seminar2/Seminar2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5/Seminar5.iml" filepath="$PROJECT_DIR$/Seminar5/Seminar5.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar5-Fatada/Seminar5-Fatada.iml" filepath="$PROJECT_DIR$/Seminar5-Fatada/Seminar5-Fatada.iml" />
@@ -12,6 +16,8 @@
       <module fileurl="file://$PROJECT_DIR$/Seminar8_Observer_1/Seminar8_Observer_1.iml" filepath="$PROJECT_DIR$/Seminar8_Observer_1/Seminar8_Observer_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Strategy.iml" filepath="$PROJECT_DIR$/Seminar8_Strategy/Seminar8_Strategy.iml" />
       <module fileurl="file://$PROJECT_DIR$/Seminar8_Template/Seminar8_Template.iml" filepath="$PROJECT_DIR$/Seminar8_Template/Seminar8_Template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Chain/Seminar9_Chain.iml" filepath="$PROJECT_DIR$/Seminar9_Chain/Seminar9_Chain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Seminar9_Memento/Seminar9_Memento.iml" filepath="$PROJECT_DIR$/Seminar9_Memento/Seminar9_Memento.iml" />
     </modules>
   </component>
 </project>
